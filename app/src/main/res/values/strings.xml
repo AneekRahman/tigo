@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">tigo</string>
+    <string name="exampleText">Hello World! Im Aneek Rahman, How are you doing? good I hope so! And if not I have come to cheer you up :D Yes! You\'ll be happy in no time at all. And then I\'ll get my revenge >:D Muhahahaha! Finally, my master plan will be executed, And I\'ll rule all of egypt!</string>
+
+    <string name="the_one_mv">https://r3---sn-q4ocqauq-q5je.googlevideo.com/videoplayback?ip=27.131.15.243&amp;ipbits=0&amp;sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,expire&amp;ei=lnx6W8f3O5C9z7sPjJ-TQA&amp;id=o-AOjzV-sFn-2zE8kzDxeAw0zI8y3oC_e5Ql3t7QU63Sch&amp;initcwndbps=498750&amp;itag=22&amp;fvip=3&amp;lmt=1534611330093255&amp;requiressl=yes&amp;key=yt6&amp;mime=video/mp4&amp;ratebypass=yes&amp;mn=sn-q4ocqauq-q5je,sn-npoeene6&amp;mm=31,29&amp;ms=au,rdu&amp;mv=m&amp;mt=1534753799&amp;expire=1534775543&amp;dur=240.047&amp;pl=24&amp;c=WEB&amp;source=youtube&amp;signature=0B8E1985B9116DEDF0A24F8E1B63B75F0E3F2940.956FEC587D3D7E1E82DFD41808A4842E0A8C5EA9</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
